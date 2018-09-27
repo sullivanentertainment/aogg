@@ -94,6 +94,10 @@ table {
 
 .home h3 {
   margin: 50px 0; }
+  @media (max-width: 990px) {
+    .home h3 {
+      margin: 30px 0;
+      font-size: 20px; } }
 
 .home .gazebo-text {
   font-size: 20px;
